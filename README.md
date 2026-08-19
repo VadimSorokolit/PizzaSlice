@@ -1,5 +1,13 @@
 # PizzaSlice
 
+* API — **https://oursongapp.com/api/pizzas**
+* UI Framework — **SwiftUI**
+* Architecture — **MVVM**
+* Networking — **URLSession**
+* Asynchronous Programming — **Structured Concurrency** (`async/await`)
+* Resources — **SDWebImage** (SDWebImageSwiftUI)
+* Linting - **SwiftLint**
+
 ## For Run:
 
 * Download project from repository  
